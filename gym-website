@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Fitness Gym</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero">
+        <h1>Welcome to Elite Fitness Gym</h1>
+        <p>Get stronger, fitter, and healthier with us!</p>
+    </div>
+    
+    <div class="services">
+        <h2>Our Services</h2>
+        <div>
+            <h3>Personal Training</h3>
+            <p>Customized workout plans from expert trainers.</p>
+        </div>
+        <div>
+            <h3>Group Classes</h3>
+            <p>Join our energetic classes for strength and fun.</p>
+        </div>
+        <div>
+            <h3>Nutrition Guidance</h3>
+            <p>Personalized meal plans for your fitness goals.</p>
+        </div>
+    </div>
+    
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@elitefitness.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Elite Fitness Gym. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
